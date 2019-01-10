@@ -10,6 +10,7 @@ You can contribute. Please send me a pull request.
 - [RRN, LSTM Intro](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 - [Attention](https://www.youtube.com/watch?v=W2rWgXJBZhU&pbjreload=10)
 - [Flattening](https://www.superdatascience.com/convolutional-neural-networks-cnn-step-3-flattening/)
+- [Dropout](https://medium.com/@amarbudhiraja/https-medium-com-amarbudhiraja-learning-less-to-learn-better-dropout-in-deep-machine-learning-74334da4bfc5)
 
 
 
