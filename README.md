@@ -9,6 +9,7 @@ You can contribute. Please send me a pull request.
 - [Activation Functions](https://www.youtube.com/watch?v=9vB5nzrL4hY)
 - [RRN, LSTM Intro](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 - [Attention](https://www.youtube.com/watch?v=W2rWgXJBZhU&pbjreload=10)
+- [Flattening](https://www.superdatascience.com/convolutional-neural-networks-cnn-step-3-flattening/)
 
 
 
