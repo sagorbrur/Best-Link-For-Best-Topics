@@ -11,6 +11,7 @@ You can contribute. Please send me a pull request.
 - [Attention](https://www.youtube.com/watch?v=W2rWgXJBZhU&pbjreload=10)
 - [Flattening](https://www.superdatascience.com/convolutional-neural-networks-cnn-step-3-flattening/)
 - [Dropout](https://medium.com/@amarbudhiraja/https-medium-com-amarbudhiraja-learning-less-to-learn-better-dropout-in-deep-machine-learning-74334da4bfc5)
+- [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
 
 
 
