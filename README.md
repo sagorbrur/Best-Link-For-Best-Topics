@@ -11,11 +11,11 @@ You can contribute. Please send me a pull request.
 - [Attention](https://www.youtube.com/watch?v=W2rWgXJBZhU&pbjreload=10)
 - [Flattening](https://www.superdatascience.com/convolutional-neural-networks-cnn-step-3-flattening/)
 - [Dropout](https://medium.com/@amarbudhiraja/https-medium-com-amarbudhiraja-learning-less-to-learn-better-dropout-in-deep-machine-learning-74334da4bfc5)
-- [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
 - [Gradient](https://youtu.be/tIpKfDc295M)
 - [Pooling](http://deeplearning.stanford.edu/tutorial/supervised/Pooling/)
 
 # Python
+- [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
 - [ _ ](https://hackernoon.com/understanding-the-underscore-of-python-309d1a029edc)
 - [ **, ^, %, // ](https://stackoverflow.com/questions/15193927/what-do-these-operators-mean)
 
