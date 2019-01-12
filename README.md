@@ -15,5 +15,10 @@ You can contribute. Please send me a pull request.
 - [Gradient](https://youtu.be/tIpKfDc295M)
 - [Pooling](http://deeplearning.stanford.edu/tutorial/supervised/Pooling/)
 
+# Python
+- [ _ ](https://hackernoon.com/understanding-the-underscore-of-python-309d1a029edc)
+- [ **, ^, %, // ](https://stackoverflow.com/questions/15193927/what-do-these-operators-mean)
+
+
 
 
