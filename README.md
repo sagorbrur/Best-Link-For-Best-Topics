@@ -13,6 +13,7 @@ You can contribute. Please send me a pull request.
 - [Dropout](https://medium.com/@amarbudhiraja/https-medium-com-amarbudhiraja-learning-less-to-learn-better-dropout-in-deep-machine-learning-74334da4bfc5)
 - [Gradient](https://youtu.be/tIpKfDc295M)
 - [Pooling](http://deeplearning.stanford.edu/tutorial/supervised/Pooling/)
+- [Probability Distribution](https://youtu.be/cqK3uRoPtk0?t=1)
 
 # Python
 - [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
