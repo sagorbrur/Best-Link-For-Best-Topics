@@ -22,6 +22,7 @@ You can contribute. Please send me a pull request.
 - [ _ ](https://hackernoon.com/understanding-the-underscore-of-python-309d1a029edc)
 - [ **, ^, %, // ](https://stackoverflow.com/questions/15193927/what-do-these-operators-mean)
 - [Lambda](https://www.w3schools.com/python/python_lambda.asp)
+- [\__init\__ & self](https://micropyramid.com/blog/understand-self-and-__init__-method-in-python-class/)
 
 
 
