@@ -16,6 +16,7 @@ You can contribute. Please send me a pull request.
 - [Pooling](http://deeplearning.stanford.edu/tutorial/supervised/Pooling/)
 - [Probability Distribution](https://youtu.be/cqK3uRoPtk0?t=1)
 - [LSTM vs Bi-LSTM](https://stackoverflow.com/questions/43035827/whats-the-difference-between-a-bidirectional-lstm-and-an-lstm)
+- [seq2seq LSTM](https://towardsdatascience.com/seq2seq-model-in-tensorflow-ec0c557e560f)
 
 # Python
 - [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
