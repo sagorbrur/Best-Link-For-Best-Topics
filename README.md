@@ -27,6 +27,9 @@ You can contribute. Please send me a pull request.
 - [Lambda](https://www.w3schools.com/python/python_lambda.asp)
 - [\__init\__ & self](https://micropyramid.com/blog/understand-self-and-__init__-method-in-python-class/)
 
-
+# Papers
+## Machine Learning
+  - [Attention](https://nlp.stanford.edu/pubs/emnlp15_attn.pdf)
+  
 
 
