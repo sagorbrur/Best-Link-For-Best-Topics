@@ -34,6 +34,7 @@ You can contribute. Please send me a pull request.
 # State of Art Deep Learning
   - [Question Answer](https://aclweb.org/aclwiki/Question_Answering_(State_of_the_art))
   - [Paraphrasing](https://aclweb.org/aclwiki/Paraphrase_Identification_(State_of_the_art))
+  - [POS Tagging](https://aclweb.org/aclwiki/POS_Tagging_(State_of_the_art))
   
 
 
