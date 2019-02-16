@@ -19,6 +19,7 @@ You can contribute. Please send me a pull request.
 - [LSTM vs Bi-LSTM](https://stackoverflow.com/questions/43035827/whats-the-difference-between-a-bidirectional-lstm-and-an-lstm)
 - [seq2seq LSTM](https://towardsdatascience.com/seq2seq-model-in-tensorflow-ec0c557e560f)
   - [seq2seq LSTM](https://www.analyticsvidhya.com/blog/2018/03/essentials-of-deep-learning-sequence-to-sequence-modelling-with-attention-part-i/)
+- [Tensorflow Basics](https://www.easy-tensorflow.com/tf-tutorials/basics)
 
 # Python
 - [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
