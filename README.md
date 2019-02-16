@@ -20,13 +20,14 @@ You can contribute. Please send me a pull request.
 - [seq2seq LSTM](https://towardsdatascience.com/seq2seq-model-in-tensorflow-ec0c557e560f)
   - [seq2seq LSTM](https://www.analyticsvidhya.com/blog/2018/03/essentials-of-deep-learning-sequence-to-sequence-modelling-with-attention-part-i/)
 - [Tensorflow Basics](https://www.easy-tensorflow.com/tf-tutorials/basics)
-
+- [Policy Gradient](https://medium.freecodecamp.org/an-introduction-to-policy-gradients-with-cartpole-and-doom-495b5ef2207f)
 # Python
 - [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
 - [ _ ](https://hackernoon.com/understanding-the-underscore-of-python-309d1a029edc)
 - [ **, ^, %, // ](https://stackoverflow.com/questions/15193927/what-do-these-operators-mean)
 - [Lambda](https://www.w3schools.com/python/python_lambda.asp)
 - [\__init\__ & self](https://micropyramid.com/blog/understand-self-and-__init__-method-in-python-class/)
+
 
 # Papers
 ## Machine Learning
