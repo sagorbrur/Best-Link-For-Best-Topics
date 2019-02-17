@@ -19,8 +19,10 @@ You can contribute. Please send me a pull request.
 - [LSTM vs Bi-LSTM](https://stackoverflow.com/questions/43035827/whats-the-difference-between-a-bidirectional-lstm-and-an-lstm)
 - [seq2seq LSTM](https://towardsdatascience.com/seq2seq-model-in-tensorflow-ec0c557e560f)
   - [seq2seq LSTM](https://www.analyticsvidhya.com/blog/2018/03/essentials-of-deep-learning-sequence-to-sequence-modelling-with-attention-part-i/)
+  - [seq2seq Keras model for Translation](https://nextjournal.com/gkoehler/machine-translation-seq2seq-cpu)
 - [Tensorflow Basics](https://www.easy-tensorflow.com/tf-tutorials/basics)
 - [Policy Gradient](https://medium.freecodecamp.org/an-introduction-to-policy-gradients-with-cartpole-and-doom-495b5ef2207f)
+
 # Python
 - [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
 - [ _ ](https://hackernoon.com/understanding-the-underscore-of-python-309d1a029edc)
