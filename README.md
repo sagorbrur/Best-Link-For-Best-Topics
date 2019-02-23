@@ -22,6 +22,7 @@ You can contribute. Please send me a pull request.
   - [seq2seq Keras model for Translation](https://nextjournal.com/gkoehler/machine-translation-seq2seq-cpu)
 - [Tensorflow Basics](https://www.easy-tensorflow.com/tf-tutorials/basics)
 - [Policy Gradient](https://medium.freecodecamp.org/an-introduction-to-policy-gradients-with-cartpole-and-doom-495b5ef2207f)
+- [Accuracy, Precision, Recall & F1 Score](https://blog.exsilio.com/all/accuracy-precision-recall-f1-score-interpretation-of-performance-measures/)
 
 # Python
 - [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
