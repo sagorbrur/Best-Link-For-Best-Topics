@@ -36,7 +36,7 @@ You can contribute. Please send me a pull request.
 ## Machine Learning
   - [Attention](https://nlp.stanford.edu/pubs/emnlp15_attn.pdf)
   - [LSTM](https://www.bioinf.jku.at/publications/older/2604.pdf)
-  - [Optimization Algorithm](https://arxiv.org/pdf/1609.04747.pdf)
+  - [Overview of Gradient Descent Optimization Algorithm](https://arxiv.org/pdf/1609.04747.pdf)
   
 # State of Art Deep Learning
   - [Question Answer](https://aclweb.org/aclwiki/Question_Answering_(State_of_the_art))
