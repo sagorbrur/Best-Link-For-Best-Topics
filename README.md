@@ -23,7 +23,7 @@ You can contribute. Please send me a pull request.
 - [Tensorflow Basics](https://www.easy-tensorflow.com/tf-tutorials/basics)
 - [Policy Gradient](https://medium.freecodecamp.org/an-introduction-to-policy-gradients-with-cartpole-and-doom-495b5ef2207f)
 - [Accuracy, Precision, Recall & F1 Score](https://blog.exsilio.com/all/accuracy-precision-recall-f1-score-interpretation-of-performance-measures/)
-
+- [Optimization Algorithm](https://towardsdatascience.com/types-of-optimization-algorithms-used-in-neural-networks-and-ways-to-optimize-gradient-95ae5d39529f)
 # Python
 - [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
 - [ _ ](https://hackernoon.com/understanding-the-underscore-of-python-309d1a029edc)
