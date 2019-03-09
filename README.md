@@ -26,6 +26,7 @@ You can contribute. Please send me a pull request.
 - [Optimization Algorithm](https://towardsdatascience.com/types-of-optimization-algorithms-used-in-neural-networks-and-ways-to-optimize-gradient-95ae5d39529f)
 # Python
 - [Built-in Exceptions](https://docs.python.org/3/library/exceptions.html#concrete-exceptions)
+  - [Example and Explanation](https://realpython.com/python-exceptions/)
 - [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
 - [ _ ](https://hackernoon.com/understanding-the-underscore-of-python-309d1a029edc)
 - [ **, ^, %, // ](https://stackoverflow.com/questions/15193927/what-do-these-operators-mean)
