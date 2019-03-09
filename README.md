@@ -25,6 +25,7 @@ You can contribute. Please send me a pull request.
 - [Accuracy, Precision, Recall & F1 Score](https://blog.exsilio.com/all/accuracy-precision-recall-f1-score-interpretation-of-performance-measures/)
 - [Optimization Algorithm](https://towardsdatascience.com/types-of-optimization-algorithms-used-in-neural-networks-and-ways-to-optimize-gradient-95ae5d39529f)
 # Python
+- [Built-in Exceptions](https://docs.python.org/3/library/exceptions.html#concrete-exceptions)
 - [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
 - [ _ ](https://hackernoon.com/understanding-the-underscore-of-python-309d1a029edc)
 - [ **, ^, %, // ](https://stackoverflow.com/questions/15193927/what-do-these-operators-mean)
