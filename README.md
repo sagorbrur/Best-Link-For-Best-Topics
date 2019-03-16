@@ -9,6 +9,7 @@ You can contribute. Please send me a pull request.
 - [Activation Functions](https://www.youtube.com/watch?v=9vB5nzrL4hY)
 - [RRN, LSTM Intro](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
   - [LSTM More](https://towardsdatascience.com/understanding-lstm-and-its-quick-implementation-in-keras-for-sentiment-analysis-af410fd85b47)
+  - [LSTM Core](https://hackernoon.com/understanding-architecture-of-lstm-cell-from-scratch-with-code-8da40f0b71f4)
 - [Attention](https://www.youtube.com/watch?v=W2rWgXJBZhU&pbjreload=10)
   - [Attention Article](https://medium.com/syncedreview/a-brief-overview-of-attention-mechanism-13c578ba9129)
 - [Flattening](https://www.superdatascience.com/convolutional-neural-networks-cnn-step-3-flattening/)
