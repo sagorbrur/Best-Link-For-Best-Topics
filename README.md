@@ -21,6 +21,7 @@ You can contribute. Please send me a pull request.
 - [seq2seq LSTM](https://towardsdatascience.com/seq2seq-model-in-tensorflow-ec0c557e560f)
   - [seq2seq LSTM](https://www.analyticsvidhya.com/blog/2018/03/essentials-of-deep-learning-sequence-to-sequence-modelling-with-attention-part-i/)
   - [seq2seq Keras model for Translation](https://nextjournal.com/gkoehler/machine-translation-seq2seq-cpu)
+  - [Seq2Seq Keras(Encoder Decoder)](https://towardsdatascience.com/nlp-sequence-to-sequence-networks-part-2-seq2seq-model-encoderdecoder-model-6c22e29fd7e1)
 - [Tensorflow Basics](https://www.easy-tensorflow.com/tf-tutorials/basics)
 - [Policy Gradient](https://medium.freecodecamp.org/an-introduction-to-policy-gradients-with-cartpole-and-doom-495b5ef2207f)
 - [Accuracy, Precision, Recall & F1 Score](https://blog.exsilio.com/all/accuracy-precision-recall-f1-score-interpretation-of-performance-measures/)
