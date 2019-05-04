@@ -41,6 +41,9 @@ You can contribute. Please send me a pull request.
   - [Attention](https://nlp.stanford.edu/pubs/emnlp15_attn.pdf)
   - [LSTM](https://www.bioinf.jku.at/publications/older/2604.pdf)
   - [Overview of Gradient Descent Optimization Algorithm](https://arxiv.org/pdf/1609.04747.pdf)
+  - [Pointer Networks](https://arxiv.org/pdf/1506.03134.pdf)
+  - [Gated Recurrent Unit](https://arxiv.org/pdf/1412.3555.pdf)
+  
   
 # State of Art Deep Learning
   - [Question Answer](https://aclweb.org/aclwiki/Question_Answering_(State_of_the_art))
