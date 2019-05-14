@@ -25,6 +25,7 @@ You can contribute. Please send me a pull request.
 - [Tensorflow Basics](https://www.easy-tensorflow.com/tf-tutorials/basics)
 - [Policy Gradient](https://medium.freecodecamp.org/an-introduction-to-policy-gradients-with-cartpole-and-doom-495b5ef2207f)
 - [Accuracy, Precision, Recall & F1 Score](https://blog.exsilio.com/all/accuracy-precision-recall-f1-score-interpretation-of-performance-measures/)
+  - [Confusion Matrix](https://towardsdatascience.com/understanding-confusion-matrix-a9ad42dcfd62)
 - [Optimization Algorithm](https://towardsdatascience.com/types-of-optimization-algorithms-used-in-neural-networks-and-ways-to-optimize-gradient-95ae5d39529f)
 # Python
 - [Built-in Exceptions](https://docs.python.org/3/library/exceptions.html#concrete-exceptions)
