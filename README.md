@@ -12,6 +12,7 @@ You can contribute. Please send me a pull request.
   - [LSTM Core](https://hackernoon.com/understanding-architecture-of-lstm-cell-from-scratch-with-code-8da40f0b71f4)
 - [Attention](https://www.youtube.com/watch?v=W2rWgXJBZhU&pbjreload=10)
   - [Attention Article](https://medium.com/syncedreview/a-brief-overview-of-attention-mechanism-13c578ba9129)
+  - [Attention Tensorflow](http://akosiorek.github.io/ml/2017/10/14/visual-attention.html)
 - [Flattening](https://www.superdatascience.com/convolutional-neural-networks-cnn-step-3-flattening/)
 - [Dropout](https://medium.com/@amarbudhiraja/https-medium-com-amarbudhiraja-learning-less-to-learn-better-dropout-in-deep-machine-learning-74334da4bfc5)
 - [Gradient](https://youtu.be/tIpKfDc295M)
