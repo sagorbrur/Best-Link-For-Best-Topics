@@ -36,7 +36,9 @@ You can contribute. Please send me a pull request.
 - [ **, ^, %, // ](https://stackoverflow.com/questions/15193927/what-do-these-operators-mean)
 - [Lambda](https://www.w3schools.com/python/python_lambda.asp)
 - [\__init\__ & self](https://micropyramid.com/blog/understand-self-and-__init__-method-in-python-class/)
-
+## Awesome Curated List
+- [Awesome NLP](https://github.com/keon/awesome-nlp)
+- [Awesome GAN](https://github.com/nashory/gans-awesome-applications)
 
 # Papers
 ## Machine Learning
