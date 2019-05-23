@@ -36,9 +36,7 @@ You can contribute. Please send me a pull request.
 - [ **, ^, %, // ](https://stackoverflow.com/questions/15193927/what-do-these-operators-mean)
 - [Lambda](https://www.w3schools.com/python/python_lambda.asp)
 - [\__init\__ & self](https://micropyramid.com/blog/understand-self-and-__init__-method-in-python-class/)
-## Awesome Curated List
-- [Awesome NLP](https://github.com/keon/awesome-nlp)
-- [Awesome GAN](https://github.com/nashory/gans-awesome-applications)
+
 
 # Papers
 ## Machine Learning
@@ -48,6 +46,10 @@ You can contribute. Please send me a pull request.
   - [Pointer Networks](https://arxiv.org/pdf/1506.03134.pdf)
   - [Gated Recurrent Unit](https://arxiv.org/pdf/1412.3555.pdf)
   - [DRAW: A Recurrent Neural Network For Image Generation](https://arxiv.org/pdf/1502.04623.pdf)
+  
+## Awesome Curated List
+- [Awesome NLP](https://github.com/keon/awesome-nlp)
+- [Awesome GAN](https://github.com/nashory/gans-awesome-applications)
   
   
 # State of Art Deep Learning
