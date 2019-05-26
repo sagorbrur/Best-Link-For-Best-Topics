@@ -28,6 +28,8 @@ You can contribute. Please send me a pull request.
 - [Accuracy, Precision, Recall & F1 Score](https://blog.exsilio.com/all/accuracy-precision-recall-f1-score-interpretation-of-performance-measures/)
   - [Confusion Matrix](https://towardsdatascience.com/understanding-confusion-matrix-a9ad42dcfd62)
 - [Optimization Algorithm](https://towardsdatascience.com/types-of-optimization-algorithms-used-in-neural-networks-and-ways-to-optimize-gradient-95ae5d39529f)
+- [Word Embedding](https://towardsdatascience.com/word-embedding-with-word2vec-and-fasttext-a209c1d3e12c)
+
 # Python
 - [Built-in Exceptions](https://docs.python.org/3/library/exceptions.html#concrete-exceptions)
   - [Example and Explanation](https://realpython.com/python-exceptions/)
