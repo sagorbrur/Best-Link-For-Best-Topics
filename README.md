@@ -29,6 +29,10 @@ You can contribute. Please send me a pull request.
   - [Confusion Matrix](https://towardsdatascience.com/understanding-confusion-matrix-a9ad42dcfd62)
 - [Optimization Algorithm](https://towardsdatascience.com/types-of-optimization-algorithms-used-in-neural-networks-and-ways-to-optimize-gradient-95ae5d39529f)
 - [Word Embedding](https://towardsdatascience.com/word-embedding-with-word2vec-and-fasttext-a209c1d3e12c)
+- [Perceptron](https://towardsdatascience.com/what-the-hell-is-perceptron-626217814f53)
+
+
+
 
 # Python
 - [Built-in Exceptions](https://docs.python.org/3/library/exceptions.html#concrete-exceptions)
@@ -48,6 +52,7 @@ You can contribute. Please send me a pull request.
   - [Pointer Networks](https://arxiv.org/pdf/1506.03134.pdf)
   - [Gated Recurrent Unit](https://arxiv.org/pdf/1412.3555.pdf)
   - [DRAW: A Recurrent Neural Network For Image Generation](https://arxiv.org/pdf/1502.04623.pdf)
+  - [GAN:Generative Adversarial Network](https://arxiv.org/pdf/1406.2661.pdf)
   
 ## Awesome Curated List
 - [Awesome NLP](https://github.com/keon/awesome-nlp)
