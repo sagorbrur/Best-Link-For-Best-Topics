@@ -53,6 +53,9 @@ You can contribute. Please send me a pull request.
   - [Gated Recurrent Unit](https://arxiv.org/pdf/1412.3555.pdf)
   - [DRAW: A Recurrent Neural Network For Image Generation](https://arxiv.org/pdf/1502.04623.pdf)
   - [GAN:Generative Adversarial Network](https://arxiv.org/pdf/1406.2661.pdf)
+  - [Adam](https://arxiv.org/pdf/1412.6980.pdf)
+  - [FastText](https://arxiv.org/abs/1607.04606)
+  - [BERT](https://arxiv.org/pdf/1810.04805.pdf)
   
 ## Awesome Curated List
 - [Awesome NLP](https://github.com/keon/awesome-nlp)
