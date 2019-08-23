@@ -42,6 +42,8 @@ You can contribute. Please send me a pull request.
 - [ **, ^, %, // ](https://stackoverflow.com/questions/15193927/what-do-these-operators-mean)
 - [Lambda](https://www.w3schools.com/python/python_lambda.asp)
 - [\__init\__ & self](https://micropyramid.com/blog/understand-self-and-__init__-method-in-python-class/)
+- [pandas in 10 minutes](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)
+- 
 
 
 # Papers
