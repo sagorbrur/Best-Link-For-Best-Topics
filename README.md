@@ -30,6 +30,7 @@ You can contribute. Please send me a pull request.
 - [Optimization Algorithm](https://towardsdatascience.com/types-of-optimization-algorithms-used-in-neural-networks-and-ways-to-optimize-gradient-95ae5d39529f)
 - [Word Embedding](https://towardsdatascience.com/word-embedding-with-word2vec-and-fasttext-a209c1d3e12c)
 - [Perceptron](https://towardsdatascience.com/what-the-hell-is-perceptron-626217814f53)
+- [Step by Step **Backpropagation**](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
 
 
 
