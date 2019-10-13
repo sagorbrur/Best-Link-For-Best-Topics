@@ -46,6 +46,11 @@ You can contribute. Please send me a pull request.
 - [pandas in 10 minutes](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)
 - [Python tricks](https://hackernoon.com/python-tricks-101-2836251922e0)
 
+# Mathematics
+- [Calculus](https://www.mathway.com/Calculus)
+- [wolframalpha](https://www.wolframalpha.com/)
+- [Math Stack-Exchange](https://math.stackexchange.com/)
+
 
 # Papers
 ## Machine Learning
