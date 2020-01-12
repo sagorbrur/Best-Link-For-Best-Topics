@@ -31,8 +31,12 @@ You can contribute. Please send me a pull request.
 - [Word Embedding](https://towardsdatascience.com/word-embedding-with-word2vec-and-fasttext-a209c1d3e12c)
 - [Perceptron](https://towardsdatascience.com/what-the-hell-is-perceptron-626217814f53)
 - [Step by Step **Backpropagation**](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
+- [Install multiple cuda version at same machine](https://blog.kovalevskyi.com/multiple-version-of-cuda-libraries-on-the-same-machine-b9502d50ae77)
 
 
+# Papers and Codes
+- [Papers with Code](https://paperswithcode.com/)
+- [nlpprogress](https://nlpprogress.com/)
 
 
 # Python
@@ -68,6 +72,7 @@ You can contribute. Please send me a pull request.
 ## Awesome Curated List
 - [Awesome NLP](https://github.com/keon/awesome-nlp)
 - [Awesome GAN](https://github.com/nashory/gans-awesome-applications)
+- [Awesome Bengali](https://github.com/banglakit/awesome-bangla)
   
   
 # State of Art Deep Learning
