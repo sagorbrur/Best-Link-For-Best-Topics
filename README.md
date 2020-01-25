@@ -9,8 +9,9 @@ You can contribute. Please send me a pull request.
 - [Activation Functions](https://www.youtube.com/watch?v=9vB5nzrL4hY)
 - [RRN, LSTM Intro](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
   - [LSTM More](https://towardsdatascience.com/understanding-lstm-and-its-quick-implementation-in-keras-for-sentiment-analysis-af410fd85b47)
-- [About CNN](http://brohrer.github.io/how_convolutional_neural_networks_work.html)
   - [LSTM Core](https://hackernoon.com/understanding-architecture-of-lstm-cell-from-scratch-with-code-8da40f0b71f4)
+  
+- [About CNN](http://brohrer.github.io/how_convolutional_neural_networks_work.html)
 - [Attention](https://www.youtube.com/watch?v=W2rWgXJBZhU&pbjreload=10)
   - [Attention Article](https://medium.com/syncedreview/a-brief-overview-of-attention-mechanism-13c578ba9129)
   - [Attention Tensorflow](http://akosiorek.github.io/ml/2017/10/14/visual-attention.html)
