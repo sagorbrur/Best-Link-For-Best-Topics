@@ -9,6 +9,7 @@ You can contribute. Please send me a pull request.
 - [Activation Functions](https://www.youtube.com/watch?v=9vB5nzrL4hY)
 - [RRN, LSTM Intro](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
   - [LSTM More](https://towardsdatascience.com/understanding-lstm-and-its-quick-implementation-in-keras-for-sentiment-analysis-af410fd85b47)
+- [About CNN](http://brohrer.github.io/how_convolutional_neural_networks_work.html)
   - [LSTM Core](https://hackernoon.com/understanding-architecture-of-lstm-cell-from-scratch-with-code-8da40f0b71f4)
 - [Attention](https://www.youtube.com/watch?v=W2rWgXJBZhU&pbjreload=10)
   - [Attention Article](https://medium.com/syncedreview/a-brief-overview-of-attention-mechanism-13c578ba9129)
@@ -32,6 +33,10 @@ You can contribute. Please send me a pull request.
 - [Perceptron](https://towardsdatascience.com/what-the-hell-is-perceptron-626217814f53)
 - [Step by Step **Backpropagation**](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
 - [Install multiple cuda version at same machine](https://blog.kovalevskyi.com/multiple-version-of-cuda-libraries-on-the-same-machine-b9502d50ae77)
+
+# Informative Blog
+- [https://ruder.io/](https://ruder.io/)
+- [https://colah.github.io/](https://colah.github.io/)
 
 
 # Papers and Codes
