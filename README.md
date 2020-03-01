@@ -34,6 +34,7 @@ You can contribute. Please send me a pull request.
 - [Perceptron](https://towardsdatascience.com/what-the-hell-is-perceptron-626217814f53)
 - [Step by Step **Backpropagation**](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
 - [Install multiple cuda version at same machine](https://blog.kovalevskyi.com/multiple-version-of-cuda-libraries-on-the-same-machine-b9502d50ae77)
+- [librosa](https://medium.com/@patrickbfuller/librosa-a-python-audio-libary-60014eeaccfb)
 
 # Informative Blog
 - [https://ruder.io/](https://ruder.io/)
