@@ -6,6 +6,7 @@ You can contribute. Please send me a pull request.
 
 
 # Machine Learning
+- [Neural Network Intro](https://victorzhou.com/blog/intro-to-neural-networks/)
 - [Activation Functions](https://www.youtube.com/watch?v=9vB5nzrL4hY)
 - [RRN, LSTM Intro](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
   - [LSTM More](https://towardsdatascience.com/understanding-lstm-and-its-quick-implementation-in-keras-for-sentiment-analysis-af410fd85b47)
